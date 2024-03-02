@@ -2,12 +2,11 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Currently working on/learning advanced Java technologies and framework internals.
 - 👯 Looking to collaborate on Open Source Projects (Java, Spring, Microservices)
-
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ **𝗗𝗲𝗲𝗽𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻**:  Microservices, Distributed Data-intensive Applications, High-performance Queuing, Database internals, Test and Maintenance Automation.
+- ⚡ Interested in:  Microservices, Distributed Data-intensive Applications, High-performance Queuing, Database internals, Test and Maintenance Automation.
 
 <h4> Technologies: </h4>
 <div align="left">
