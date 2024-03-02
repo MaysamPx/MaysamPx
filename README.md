@@ -3,10 +3,6 @@
 - 🌱 Currently learning advanced Java technologies and framework internals.
 - 👯 Looking to collaborate on Open Source Projects (Java, Spring, Microservices)
 
-▪ Can grasp and explain sophisticated concepts
-▪ Experienced in low-latency services
-▪ Skilled to write high-performance, reusable code
-▪ A big fan of pair programming 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
