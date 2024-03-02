@@ -1,7 +1,7 @@
 ### Maysam Pasdari, a Software Engineer!👋
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning advanced Java technologies and framework internals.
-- 👯 I’m looking to collaborate on Open Source Projects (Java, Spring, Microservices)
+- 🌱 Currently learning advanced Java technologies and framework internals.
+- 👯 Looking to collaborate on Open Source Projects (Java, Spring, Microservices)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
