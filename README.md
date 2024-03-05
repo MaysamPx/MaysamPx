@@ -1,6 +1,6 @@
 ### Maysam Pasdari, a Software Engineer!👋
 <!-- - 🔭 I’m currently working on ... -->
-A Software Design and Development enthusiast with 8+ years specializing in high-performance event streaming, transactional data processing, and recently advertisements. Adept at designing, developing, and maintaining systems with a focus on clean code. Skilled in back-end engineering, efficient data structures and algorithms, message brokers, modern test automation, and SQL/NoSQL storage.
+A Software Design and Development enthusiast with 8+ years specializing in high-performance event streaming, E-commerce, transactional data processing, and recently advertisements. Adept at designing, developing, and maintaining systems with a focus on clean code. Skilled in back-end engineering, efficient data structures and algorithms, message brokers, modern test automation, and SQL/NoSQL storage.
 
 - 🌱 Currently working on/learning advanced Java technologies and framework internals.
 - 👯 Looking to collaborate on Open Source Projects (Java, Spring, Microservices)
