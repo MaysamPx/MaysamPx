@@ -4,7 +4,7 @@ A Software Design and Development enthusiast with 8+ years of experience in deve
 
  🌱 Currently working on high-performance data-intensive applications.
  
- 👯 Looking to collaborate on Open Source Projects (Java, Spring, Microservices)
+ 👯 Looking to collaborate on Open Source Projects.
  
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
