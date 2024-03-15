@@ -1,7 +1,6 @@
 ### I'm Maysam!👋
 <!-- - 🔭 I’m currently working on ... -->
-A Software Design and Development enthusiast with 8+ years of experience in developing high-performance systems in financial stream processing, e-commerce, transactional data processing, and recently advertisements domains. Adept at designing, developing, and maintaining systems with a focus on clean code. Skilled in back-end engineering, efficient data structures and algorithms, message brokers, modern test automation, and SQL/NoSQL storage systems.
-
+A Software Design and Development enthusiast with 8+ years of experience in developing high-performance systems in financial stream processing, e-commerce, transactional data processing, and recently advertisements domains. Skilled in back-end development/engineering.
  🌱 Currently working on high-performance data-intensive applications.
  
  👯 Looking to collaborate on Open Source Projects.
