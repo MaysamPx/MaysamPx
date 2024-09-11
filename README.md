@@ -1,6 +1,6 @@
 ### I'm Maysam!👋
 <!-- - 🔭 I’m currently working on ... -->
-A Software Design and Development enthusiast with 10+ years of experience in developing high-performance systems in financial stream processing, e-commerce, transactional data processing, and recently advertisements domains. Skilled in back-end development/engineering.
+A software design and development enthusiast with 10+ years of experience in high-performance financial stream processing, e-commerce, transactional data processing, and advertisements domains. Skilled in back-end development/engineering.
 
   <!-- 🌱 Currently working on high-performance data-intensive applications. -->
  
