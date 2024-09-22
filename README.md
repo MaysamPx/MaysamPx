@@ -10,7 +10,7 @@ A software design and development enthusiast with 10+ years of experience in hig
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-⚡ Interested in  Java, Microservices, Distributed Data-intensive Applications, High-performance Queuing, and Database internals.
+⚡ Interested in  Java/Kotlin, Microservices, Distributed Data-intensive Applications, High-performance Queuing, and Database internals.
 
 <h4> Tools & Technologies: </h4>
 Java, Spring (MVC, Boot, Data, Security), Junit, Git, Maven, Docker, Jetty, Nginx, MS SQL Server, MySQL, MongoDB, ELK Stack, Redis, Apache Kafka, Kinesis, SQS, Rabbit MQ, S3, Ubuntu, Windows Server, Jenkins, Apache Logging Services, Sentry, JProfiler, JMeter, Grafana, Prometheus, DataDog
